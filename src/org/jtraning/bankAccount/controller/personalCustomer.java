@@ -7,7 +7,7 @@ package org.jtraning.bankAccount.controller;
 
 import java.util.*;
 
-import org.jtraining.Exceptions.InvalidNumberException;
+import org.jtraning.bankAccount.exceptions.InvalidNumberException;
 
 public class personalCustomer extends Customer{
 	

@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.UUID;
 
-import org.jtraining.Exceptions.NegativeNumberException;
+import org.jtraning.bankAccount.exceptions.NegativeNumberException;
 
 public class CustomerTransaction {
 	private static final float goldPrice = 34;

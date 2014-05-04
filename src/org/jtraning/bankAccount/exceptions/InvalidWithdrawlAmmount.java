@@ -1,4 +1,4 @@
-package org.jtraining.Exceptions;
+package org.jtraning.bankAccount.exceptions;
 
 public class InvalidWithdrawlAmmount extends Exception {
 

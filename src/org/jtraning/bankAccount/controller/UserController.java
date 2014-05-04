@@ -15,9 +15,9 @@ also do while() has ; at end of while
  */
 import java.util.*;
 
-import org.jtraining.Exceptions.InsufficientFundsException;
-import org.jtraining.Exceptions.InvalidWithdrawlAmmount;
-import org.jtraining.Exceptions.NegativeNumberException;
+import org.jtraning.bankAccount.exceptions.InsufficientFundsException;
+import org.jtraning.bankAccount.exceptions.InvalidWithdrawlAmmount;
+import org.jtraning.bankAccount.exceptions.NegativeNumberException;
 
 
 

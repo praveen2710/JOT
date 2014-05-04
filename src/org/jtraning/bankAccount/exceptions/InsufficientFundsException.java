@@ -1,4 +1,4 @@
-package org.jtraining.Exceptions;
+package org.jtraning.bankAccount.exceptions;
 //how to check all classes that can be implemented from super class in eclipse
 public class InsufficientFundsException extends Exception {
 

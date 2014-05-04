@@ -7,7 +7,7 @@ need to figure out how to differentiate commerical cutomer and personal customer
 
 import java.util.*;
 
-import org.jtraining.Exceptions.InvalidNumberException;
+import org.jtraning.bankAccount.exceptions.InvalidNumberException;
 
 public class commercialCustomer extends Customer{
 	private String contactPerson;
